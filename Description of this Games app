@@ -1,0 +1,25 @@
+It is a games desktop application written in python programming language
+For a user to use this app he can enter as a user with account on this system or as a guest
+There are some features specific for user with account and not allowed for the guest like making a tournament and changing avatar and also saving progress like level and xp
+only allowed for user with account.
+Some main features
+Tournament
+  Only for user with account
+  Descriping tournament feature
+  a user can click on make tournament then type names of the 4 players.
+  the first round is first 2 players againest each other.
+  the second round is second 2 players againest each other.
+  the final round is the winners of the 2 previous rounds againest each other.
+
+acheivements
+  Only for user with account
+  Descriping acheivements feature
+  every user with account has achievements list which is created at the time he signed up.
+  when he makes an achivement like winning 3 games in a row this achievement is marked with another color so when he opens acheivements list he will find it marked as done.
+  if a user did an achievement he earns XP points.
+Earning XP till some points can increase level.
+
+Changing avatar
+  Only for user with account
+ 
+
